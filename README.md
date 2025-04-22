@@ -1,4 +1,4 @@
-Hi 👋 My name is Han (Charlie) Bi
+Hi! My name is Han (Charlie) Bi
 =================================
 
 Software Developer
